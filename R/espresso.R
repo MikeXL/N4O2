@@ -2,7 +2,7 @@
 load('caffeine.rdata')
 
 # do some plots
-library(qqplot2)
+library(ggplot2)
 
 # indicates most of drinks have low caffeine per floz
 qplot(caffeine.mg.per.floz, data=caffeine, binwidth=10)
