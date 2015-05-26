@@ -8,5 +8,5 @@
 #' grind()
 
 grind <- function (bean = "Costa Rica") {
-  print("You've got bean from " + bean);
+  cat(paste("You've got bean from " , bean, ".\n"))
 }

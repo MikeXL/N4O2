@@ -1,10 +1,9 @@
 
+brew <- function() {
+  data(caffeine)
+}
 
-plot.caffeine <- function() {
-  # load in the dataset
-  load('data/caffeine.rdata')
-
-  # do some plots, consider put this into .Rprofile of the package folder?
+drink <- function() {
   require(ggplot2)
 
   # indicates most of drinks have low caffeine per floz
