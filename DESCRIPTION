@@ -1,9 +1,10 @@
 Package: Espresso
-Type: Package
 Title: Fun analysis of caffeine
 Version: 0.1.1
 Date: 2014-07-30
 Author: ML @TigerPlusDragon
-Maintainer: mike@mscanada.net
+Maintainer: Mike <mike@mscanada.net>
 Description: Nothing more if you dont drink espresso
 License: BSD
+URL: http://mike.mscanada.net
+BugReports: http://github.com/MikeXL/espResso
