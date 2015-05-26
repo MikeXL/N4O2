@@ -1,7 +1,7 @@
 # load in the dataset
 load('caffeine.rdata')
 
-# do some plots
+# do some plots, consider put this into .Rprofile of the package folder?
 library(ggplot2)
 
 # indicates most of drinks have low caffeine per floz
